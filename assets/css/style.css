@@ -1,0 +1,24 @@
+/*font-family: 'Inter', sans-serif;*/
+
+.elcuerpo {
+    background-color: black;
+}
+
+html{ 
+    scroll-behavior: smooth;
+}
+
+#Contacto {
+    font-weight: 700;
+    font-size: larger;
+}
+
+#Destacados {
+    font-weight: 700;
+    font-size: larger;
+}
+
+#Quienessomos {
+    font-weight: 700;
+    font-size: larger;
+}
